@@ -1,0 +1,9 @@
+1 Delta 1243 heavy takeoff
+1 AirCanada 973 heavy takeoff
+5 Emirates 1598 super landing
+8 Sunwing 556 large landing
+10 Volaris 401 small takeoff
+15 AirTransat 225 large landing
+18 Delta 5225 heavy takeoff
+18 UPS 785 super takeoff
+18 Southwest 3355 heavy landing
